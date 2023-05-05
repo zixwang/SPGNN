@@ -6,3 +6,6 @@ Sequence Pre-training-based Graph Neural Network (SPGNN) is a novel graph-based 
 
 ## To train your own SPGNN
 `TODO: python command`
+
+## To reproduce the results of Table 3
+`TODO: python command`
