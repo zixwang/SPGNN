@@ -6,3 +6,5 @@ Sequence Pre-training-based Graph Neural Network (SPGNN) is a novel graph-based 
 ## To train and test SPGNN
 `python main.py`
 
+## Log position
+'/log/SGC.log'
